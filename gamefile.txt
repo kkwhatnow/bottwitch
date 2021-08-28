@@ -1,0 +1,1 @@
+user,gold,health,defense,speed,intelligence,agility,luck,strength,observation,weapon,accessory,head,chest,gloves,pants,shoes,shield,ring1,ring2,ring3,ring4,ring5,ring6,ring7,ring8,ring9,ring10

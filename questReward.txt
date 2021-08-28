@@ -1,0 +1,2 @@
+id,rewards,chance,cost,attribute,effect,type
+

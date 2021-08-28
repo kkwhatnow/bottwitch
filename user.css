@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+h1 {
+	color: green;
+}
+
+.user {
+	color: green;
+	text-align: left;
+	padding: 1px;
+	border-collapse: collapse;
+}
+
+
+.inventory {
+	color: green;
+}

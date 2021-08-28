@@ -1,0 +1,4 @@
+CHANNEL = '#'
+
+BOT = ''
+OATH = ''

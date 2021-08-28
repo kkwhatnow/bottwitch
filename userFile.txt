@@ -1,0 +1,4 @@
+user,gold,health,defense,speed,intelligence,agility,luck,strength,observation,weapon,accessory,head,chest,gloves,pants,shoes,shield,ring1,ring2,ring3,ring4,ring5,ring6,ring7,ring8,ring9,ring10
+me,0,100,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,
+kkwhatnow,0,100,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,
+nospacesforme,0,100,1,1,1,1,1,1,1,,,,,,,,,,,,,,,,,,
